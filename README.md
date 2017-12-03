@@ -23,7 +23,7 @@ The stock driver for the keyboard ships with an application, Logitech Options, t
 Despite the expected inadequacies, if you want to support the craft dial in your own application the stock software is easy to understand. The logitech options application runs a socket server on a local loopback connection and you can connect to this from your application to receive messages when keyboard events occur. Take a look at the existing plugins where they reside on your system to see how this works. The Microsoft Office addins are easy enough to decompile with ilspy, and the javascript extensions for Adobe CS can be manually deobfuscated/decrunched with a 'crafty' regular expression.
 
 ## HID Messages
-Thw following messages are not yet decoded.
+The following messages are not yet decoded.
 ### Outgoing
 - Ratchet Enable `11 01 12 2A 02 02`
 - Ratchet Disable `11 01 12 2A 02 01`
