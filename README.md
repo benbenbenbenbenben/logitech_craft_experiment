@@ -9,7 +9,7 @@ As is often the case with logitech, the abilities of the hardware exceed the fea
 ### What can the Logitech Craft actually do?
 The Craft is a keyboard much like any other, except that it features a touch senstive rotary encoder dial in the upper left corner. This dial is not unlike a Surface Dial though attached to a keyboard.
 
-As well as provding relative rotation information the dial reports 4 states:
+As well as providing relative rotation information the dial reports 4 states:
 - nothing
 - touch
 - push
